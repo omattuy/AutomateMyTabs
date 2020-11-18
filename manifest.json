@@ -1,7 +1,7 @@
 {
     "name": "Open My Tabs",
     "version": "1.0",
-    "description": "Opens pre-defined Google Chrome tabs automatically",
+    "description": "Opens a set of pre-defined Google Chrome tabs automatically",
     "permissions": [
         "tabs"
     ],
